@@ -1,0 +1,14 @@
+[
+{
+"id": 3,
+"lookupId": 7,
+"processor": "Dual i7",
+"memoryStandard": "40GB",
+"memoryMaximum": "160GB",
+"storage": "5000GB 5.4rpm",
+"graphics": "Intel 46000",
+"weight": "0.9lbs",
+"screenSize": "12.5\"",
+"resolution": "1366x768"
+}
+]
